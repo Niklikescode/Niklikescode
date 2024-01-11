@@ -22,6 +22,8 @@
 - 📫 How to reach me **niklikescode@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nikhilbhalla38/](https://www.linkedin.com/in/nikhilbhalla38/)
+  
+- 📃 Curriculum Vitae https://drive.google.com/file/d/1aF5the44oYe2inbsT4-xVBhz8A_a9H__/view?usp=drive_link
 
 - ⚡ Fun fact **I love travelling, live music (especially Hiphop) and stand-up comedy, and I can bake some incredible cakes! 🍰**
 
