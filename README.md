@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">Hi 👋 I'm Nikhil Bhalla</h1>
-<h3 align="center">Bringing 20+ years of expert IT Business and Sales experience into the world of code, and so excited to learn and see how useful I can be!</h3>
+<h3 align="center">Bringing 20+ years of expert IT Business and Sales experience into the world of code. I'm so excited to embark on this new journey and see how useful I can be!</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2R5bm94bzRqMGJkdXBvejI0bmRraTJtMmRreWh3d2EwcHVlbGlvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
