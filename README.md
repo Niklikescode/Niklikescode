@@ -10,18 +10,22 @@
 <p align="left"> <a href="https://twitter.com/nikb305" target="blank"><img src="https://img.shields.io/twitter/follow/nikb305?logo=twitter&style=for-the-badge" alt="nikb305" /></a> </p>
 
 - 🔭 I’m currently working on [Bubble](https://bubble-app-two.vercel.app/)
+  
+- 💬 Ask me about **The School of Code - Where I've just finished an amazing bootcamp in full-stack web development!**
 
 - 🌱 I’m currently learning **React.js, Next.js**
 
-- 👨‍💻 All of my projects are available at [Portfolio page coming soon](Portfolio page coming soon)
+- 🧠 I’m currently refreshing knowledge **Harvard CS50 - Introduction into Computer Science**
 
-- 💬 Ask me about **The School of Code - Where I've just finished an amazing bootcamp in full-stack web development!**
+- 👨‍💻 All of my projects are available at (Portfolio page coming soon)
 
 - 📫 How to reach me **niklikescode@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nikhilbhalla38/](https://www.linkedin.com/in/nikhilbhalla38/)
 
 - ⚡ Fun fact **I love travelling, live music (especially Hiphop) and stand-up comedy, and I can bake some incredible cakes! 🍰**
+
+- 📈 Follow my Twitter, where i'm currently challenging myself to **100 DAYS OF CODE!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
