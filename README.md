@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **React.js, Next.js**
 
-- 🧠 I’m currently refreshing knowledge **Harvard CS50 - Introduction into Computer Science**
+- 🧠 I’m currently refreshing knowledge on **Harvard CS50 - Introduction into Computer Science**
 
 - 👨‍💻 All of my projects are available at (Portfolio page coming soon)
 
