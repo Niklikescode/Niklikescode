@@ -25,13 +25,13 @@
 
 - ⚡ Fun fact **I love travelling, live music (especially Hiphop) and stand-up comedy, and I can bake some incredible cakes! 🍰**
 
-- 📈 Follow my Twitter, where i'm currently challenging myself to **100 DAYS OF CODE!**
+- 📈 Follow my Twitter, where I'm currently challenging myself to **100 DAYS OF CODE!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nikb305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikb305" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nikhilbhalla38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilbhalla38" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@nik.305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@nik.305" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCSmc0SQYcUH4zPI1NLEzGdA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@nik.305" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
