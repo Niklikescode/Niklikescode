@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at **(Portfolio page coming soon)**
 
-- 📫 How to reach me **niklikescode@gmail.com**
+- 📫 How to reach me niklikescode@gmail.com
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nikhilbhalla38/](https://www.linkedin.com/in/nikhilbhalla38/)
   
