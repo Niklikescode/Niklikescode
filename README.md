@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Bubble](https://bubble-app-two.vercel.app/)
   
-- 💬 Ask me about **The School of Code - Where I've just finished an amazing bootcamp in full-stack web development!**
+- 💬 Ask me about **The School of Code - Where I've just completed a life-changing bootcamp in Full-Stack Software Development!**
 
 - 🌱 I’m currently learning **React.js, Next.js**
 
@@ -25,7 +25,7 @@
   
 - 📃 Curriculum Vitae https://drive.google.com/file/d/1cubmURL_9QPjHJCMfFAiY9s3HD-KHvAY/view?usp=drive_link
 
-- ⚡ Fun fact **I love travelling, live music (especially old school Hiphop) and stand-up comedy. I also bake some incredible cakes! 🍰**
+- ⚡ Fun fact **I love travelling, live music and stand-up comedy. I also bake some incredible cakes! 🍰**
 
 - 📈 Follow my Twitter, where I'm currently challenging myself to **100 DAYS OF CODE!**
 
