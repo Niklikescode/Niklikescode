@@ -25,7 +25,7 @@
   
 - 📃 Curriculum Vitae https://drive.google.com/file/d/1cubmURL_9QPjHJCMfFAiY9s3HD-KHvAY/view?usp=drive_link
 
-- ⚡ Fun fact **I love travelling, live music and stand-up comedy. I also bake some incredible cakes! 🍰**
+- ⚡ Fun fact **I love travelling, live music and stand-up comedy. I also powerlift 🏋🏽‍♂️ and bake some incredible cakes 🍰**
 
 - 📈 Follow my Twitter, where I'm currently keeping myself accountable with **100 DAYS OF CODE**
 
