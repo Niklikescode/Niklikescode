@@ -27,7 +27,7 @@
 
 - ⚡ Fun fact **I love travelling, live music and stand-up comedy. I also bake some incredible cakes! 🍰**
 
-- 📈 Follow my Twitter, where I'm currently challenging myself to **100 DAYS OF CODE!**
+- 📈 Follow my Twitter, where I'm currently keeping myself accountable with **100 DAYS OF CODE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
