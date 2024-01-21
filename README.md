@@ -13,7 +13,7 @@
   
 - 💬 Ask me about **The School of Code - Where I've just completed a life-changing bootcamp in Full-Stack Software Development!**
 
-- 🌱 I’m currently learning **React.js, Next.js**
+- 🌱 I’m currently learning **Python, React.js, Next.js (and continuously refining my knowledge in the below tech stack)**
 
 - 🧠 I’m currently refreshing knowledge on **Harvard CS50 - Introduction into Computer Science**
 
