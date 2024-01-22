@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nikhilbhalla38/](https://www.linkedin.com/in/nikhilbhalla38/)
   
-- 📃 Curriculum Vitae https://drive.google.com/file/d/1cubmURL_9QPjHJCMfFAiY9s3HD-KHvAY/view?usp=drive_link
+- 📃 Curriculum Vitae https://drive.google.com/file/d/17yv9DqaS9djl3fsay5EjJoR7653buScI/view?usp=sharing
 
 - ⚡ Fun fact... **I love travelling, live music and stand-up comedy. I also powerlift 🏋🏽‍♂️ and bake some incredible cakes 🍰**
 
