@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on - My Portfolio site (link to be added here)
+- 🔭 I’m currently working on - **a Fitness App!**
   
 - 💬 Ask me about **The School of Code - Where I've just completed a life-changing bootcamp in Full-Stack Software Development!**
 
@@ -17,13 +17,13 @@
 
 - 🧠 I’m currently refreshing knowledge on **Harvard CS50 - Introduction into Computer Science**
 
-- 👨‍💻 All of my projects are available at **(Portfolio page coming soon)**
+- 👨‍💻 All of my projects are available at **[(Portfolio page coming soon)](https://www.nikhilbhalla.co.uk/)**
 
-- 📫 How to reach me niklikescode@gmail.com
+- 📫 How to reach me **niklikescode@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/nikhilbhalla38/](https://www.linkedin.com/in/nikhilbhalla38/)
+- 📄 Know about my experiences **[https://www.linkedin.com/in/nikhilbhalla38/](https://www.linkedin.com/in/nikhilbhalla38/)**
   
-- 📃 Curriculum Vitae [https://drive.google.com/file/d/19FcJPf8R7Bg3uhz4lfa8C6ECh5K54Wej/view?usp=drive_link](https://drive.google.com/file/d/19FcJPf8R7Bg3uhz4lfa8C6ECh5K54Wej/view?usp=sharing)
+- 📃 Curriculum Vitae **[https://drive.google.com/file/d/19FcJPf8R7Bg3uhz4lfa8C6ECh5K54Wej/view?usp=drive_link](https://drive.google.com/file/d/19FcJPf8R7Bg3uhz4lfa8C6ECh5K54Wej/view?usp=sharing)**
 
 - ⚡ Fun fact... **I love travelling, live music and stand-up comedy. I also powerlift 🏋🏽‍♂️ and bake some incredible cakes 🍰**
 
