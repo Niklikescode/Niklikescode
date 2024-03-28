@@ -9,15 +9,15 @@
 
 
 
-- 🔭 I’m currently working on - **a Fitness App!**
+- 🔭 I’m currently working on **a Fitness app**
+
+- 👨‍💻 Get to know me more through **[my Website!](https://www.nikhilbhalla.co.uk/)**
   
-- 💬 Ask me about **The School of Code - Where I've just completed a life-changing bootcamp in Full-Stack Software Development!**
+- 💬 Ask me about **The School of Code - Where I've recently completed a life-changing bootcamp in Full-Stack Software Development!**
 
 - 🌱 I’m currently learning **Python, React.js, Next.js (and continuously refining my knowledge in the below tech stack)**
 
 - 🧠 I’m currently refreshing knowledge on **Harvard CS50 - Introduction into Computer Science**
-
-- 👨‍💻 All of my projects are available at **[my Website](https://www.nikhilbhalla.co.uk/)**
 
 - 📫 How to reach me **niklikescode@gmail.com**
 
