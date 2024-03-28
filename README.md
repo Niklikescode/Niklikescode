@@ -17,7 +17,7 @@
 
 - 🧠 I’m currently refreshing knowledge on **Harvard CS50 - Introduction into Computer Science**
 
-- 👨‍💻 All of my projects are available at **[(Portfolio page coming soon)](https://www.nikhilbhalla.co.uk/)**
+- 👨‍💻 All of my projects are available at **[(my Website)](https://www.nikhilbhalla.co.uk/)**
 
 - 📫 How to reach me **niklikescode@gmail.com**
 
