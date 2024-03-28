@@ -19,15 +19,15 @@
 
 - 🧠 I’m currently refreshing knowledge on **Harvard CS50 - Introduction into Computer Science**
 
-- 📫 How to reach me **niklikescode@gmail.com**
-
 - 📄 Know about my experiences through **[LinkedIn](https://www.linkedin.com/in/nikhilbhalla38/)**
   
-- 📃 Curriculum Vitae **[Link](https://drive.google.com/file/d/19FcJPf8R7Bg3uhz4lfa8C6ECh5K54Wej/view?usp=sharing)**
+- 📃 Curriculum Vitae - **[Link](https://drive.google.com/file/d/19FcJPf8R7Bg3uhz4lfa8C6ECh5K54Wej/view?usp=sharing)**
 
 - ⚡ Fun fact... **I love travelling, live music and stand-up comedy. I also powerlift 🏋🏽‍♂️ and bake some incredible cakes 🍰**
 
 - 📈 Follow my Twitter, where I'm currently keeping myself accountable with **100 DAYS OF CODE**
+
+- 📫 Email me - **niklikescode@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
