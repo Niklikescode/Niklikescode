@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **a Fitness app**
 
-- 👨‍💻 Get to know me more through **[my website](https://www.nikhilbhalla.co.uk/)**
+- 👨‍💻 Get to know me more through **[My Website](https://www.nikhilbhalla.co.uk/)**
   
 - 💬 Ask me about **The School of Code - Where I've recently completed a life-changing bootcamp in Full-Stack Software Development!**
 
